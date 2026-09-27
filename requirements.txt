@@ -1,5 +1,10 @@
 scanpy
+anndata
 numpy
 pandas
+scipy
 scikit-learn
+statsmodels
+pyranges
 matplotlib
+seaborn
